@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `post` MODIFY `desc` VARCHAR(5000) NOT NULL;
